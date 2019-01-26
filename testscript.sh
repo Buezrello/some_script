@@ -1,4 +1,7 @@
 #!/bin/bash
+
+#Just comment example
+
 echo "this script is from github"
 NUMBERONE=$1
 NUMBERTWO=$2
