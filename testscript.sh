@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Just comment example
+#Very usefull comment
 
 echo "this script is from github"
 NUMBERONE=$1
