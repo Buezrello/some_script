@@ -6,7 +6,7 @@ Nothing interesting here
 
 ## Second Level Header 2
 
-More nothing interesting
+More nothing interesting. Adding line for rebasing example.
 
 ## Second Level Header 3
 
