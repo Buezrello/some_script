@@ -18,4 +18,4 @@ Nothing. Just nothing.
 As I say - nothing
 
 ### Copyright
-(c) Copyright
+(c) Copyright. All right reserved.
