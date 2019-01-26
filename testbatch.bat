@@ -10,3 +10,6 @@ echo "finished"
 echo "AAAAAAAAAAAAAA"
 echo "BBBBBBBBBBBBBBB"
 echo "ccccCCC"
+
+# just comment
+
