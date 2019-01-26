@@ -12,4 +12,5 @@ echo "BBBBBBBBBBBBBBB"
 echo "ccccCCC"
 
 # just comment
+# second comment
 # (c) Copyright gfgdg
