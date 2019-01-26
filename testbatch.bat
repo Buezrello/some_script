@@ -14,4 +14,6 @@ echo "ccccCCC"
 # just comment
 # second comment
 # thank me for being me
+# comment for stashing example
+# second comment for stash example
 # (c) Copyright gfgdg
