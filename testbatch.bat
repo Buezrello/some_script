@@ -12,4 +12,4 @@ echo "BBBBBBBBBBBBBBB"
 echo "ccccCCC"
 
 # just comment
-
+# (c) Copyright gfgdg
